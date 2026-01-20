@@ -10,7 +10,7 @@ Maintain end-to-end traceability between requirements, architecture, security, a
 - Verify quality checks before handoff.
 
 ## Knowledge Base interaction (read/write duties)
-- Read: `docs/knowledge_base/eu_ai_act_mapping.md`, `docs/knowledge_base/security_patterns.md`, `docs/knowledge_base/threat_register.md`.
+- Read: `docs/knowledge_base/eu_ai_act_mapping.md`, `docs/knowledge_base/security_patterns.md`, `docs/knowledge_base/threat_register.md`, `docs/knowledge_base/risk_ownership_and_escalation.md`.
 - Write: Update traceability notes in `docs/knowledge_base/architecture_decisions.md`.
 - Verify: Each requirement is linked to at least one Knowledge Base entry.
 
@@ -28,6 +28,7 @@ Outputs:
 - Every requirement maps to an architecture and security consideration.
 - Compliance controls are linked to requirements.
 - Evidence artifacts are identified and referenced.
+- System boundaries, lifecycle phases, KPIs, third-party risk, and risk ownership are traceable to requirements.
 - Traceability is documented and reviewable in the Knowledge Base.
 
 ## Typical Failure Modes

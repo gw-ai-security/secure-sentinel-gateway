@@ -11,3 +11,8 @@
 ## Documentation discipline
 - Knowledge Base updates prevent orphan decisions and support governance.
 - Clear traceability reduces review friction across teams.
+
+## Governance upgrades
+- Explicit system boundaries and non-goals prevent scope drift during later phases.
+- Lifecycle evidence planning improves audit readiness before implementation starts.
+- KPI ownership and escalation thresholds sharpen accountability across roles.

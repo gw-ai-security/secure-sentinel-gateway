@@ -19,6 +19,7 @@ SSG sits between enterprise systems (applications, data sources, analysts) and L
 
 Knowledge Base references:
 - `docs/knowledge_base/architecture_decisions.md`
+- `docs/knowledge_base/architecture_overview.md`
 - `docs/knowledge_base/security_patterns.md`
 - `docs/knowledge_base/eu_ai_act_mapping.md`
 - `docs/knowledge_base/threat_register.md`

@@ -8,6 +8,7 @@ Own the structure, consistency, and completeness of the Knowledge Base and preve
 - Enforce contributions from all roles.
 - Validate that decisions are recorded and traceable.
 - Resolve duplicate or conflicting knowledge entries.
+- Enforce cross-links and prevent orphan documentation.
 
 ## Knowledge Base interaction (read/write duties)
 - Read: All Knowledge Base files to verify consistency.
@@ -28,7 +29,7 @@ Outputs:
 - Knowledge Base structure is current and complete.
 - No major decision remains undocumented.
 - Each phase shows at least one Knowledge Base update.
-- Traceability links are present and verifiable.
+- Traceability links are present and verifiable, with no orphan documents.
 
 ## Typical Failure Modes
 - Knowledge not recorded or not kept current.

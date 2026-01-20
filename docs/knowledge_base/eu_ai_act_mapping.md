@@ -12,3 +12,9 @@ Map gateway controls and documentation artifacts to EU AI Act obligations at a h
 
 ## Evidence linkage
 Evidence artifacts referenced in `docs/compliance/audit_evidence_register.md` should align with this mapping.
+
+## Linked governance artifacts
+- docs/compliance/ai_system_lifecycle.md
+- docs/compliance/metrics_and_kpis.md
+- docs/compliance/third_party_and_llm_risk.md
+- docs/requirements/system_boundaries_and_non_goals.md

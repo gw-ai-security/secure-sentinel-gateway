@@ -17,3 +17,27 @@
 - Rationale: Requirements and governance artifacts are complete, but architecture and threat modeling must validate mappings.
 - Consequences: Phase 2 must expand the threat register and refine compliance mappings.
 - Linked requirements: NFR-C3, NFR-O2, NFR-O3.
+
+## ADR-04: Enterprise readiness governance pack
+- Decision: Add explicit system boundaries, risk ownership, lifecycle evidence, KPI governance, and third-party risk artifacts.
+- Rationale: Enterprise and audit readiness require documented governance beyond baseline requirements.
+- Consequences: All roles must reference these artifacts in work reports and traceability updates.
+- Linked requirements: NFR-C1, NFR-C2, NFR-C3.
+
+## ADR-05: Risk ownership and escalation model
+- Decision: Adopt a category-based risk ownership model with explicit escalation triggers and decision authority.
+- Rationale: Audit readiness depends on clear accountability and repeatable escalation paths.
+- Consequences: Threats and KPIs must identify owners and escalation thresholds.
+- Linked requirements: NFR-O2, NFR-O3.
+
+## ADR-06: Lifecycle evidence expectations
+- Decision: Define lifecycle phases with required deliverables and evidence per phase.
+- Rationale: EU AI Act readiness requires traceable evidence across the system lifecycle.
+- Consequences: Work reports must align to lifecycle evidence requirements.
+- Linked requirements: NFR-C2, NFR-C3.
+
+## ADR-07: Third-party LLM risk posture
+- Decision: Treat LLM providers and AWS managed services as explicit third-party risk dependencies.
+- Rationale: External dependencies materially affect security, compliance, and availability.
+- Consequences: Third-party risks must be tracked in compliance and threat documentation.
+- Linked requirements: NFR-S1, NFR-S2, NFR-O2.

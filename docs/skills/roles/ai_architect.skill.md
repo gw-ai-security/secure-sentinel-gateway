@@ -7,7 +7,7 @@ Design the system architecture and module boundaries for the AI gateway without 
 - Define system architecture and component boundaries.
 - Specify API boundaries and data flow.
 - Clarify module responsibilities and interactions.
-- Provide conceptual FastAPI orchestration notes.
+- Provide conceptual API orchestration notes (no implementation detail).
 
 ## Knowledge Base interaction (read/write duties)
 - Read: `docs/knowledge_base/architecture_decisions.md` for existing design decisions.

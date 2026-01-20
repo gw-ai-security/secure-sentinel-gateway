@@ -10,7 +10,7 @@ Define governance, accountability, and human oversight structures required for E
 - Align organizational controls to EU AI Act obligations.
 
 ## Knowledge Base interaction (read/write duties)
-- Read: `docs/knowledge_base/eu_ai_act_mapping.md` and `docs/knowledge_base/lessons_learned.md`.
+- Read: `docs/knowledge_base/eu_ai_act_mapping.md`, `docs/knowledge_base/lessons_learned.md`, `docs/knowledge_base/risk_ownership_and_escalation.md`.
 - Write: Maintain compliance evidence structure in `docs/knowledge_base/lessons_learned.md`.
 - Verify: Governance artifacts align with Knowledge Base mappings.
 
@@ -23,6 +23,7 @@ Outputs:
 - Governance and oversight guidelines.
 - Documentation and audit evidence lists.
 - Organizational control mappings.
+- Lifecycle, KPI, and third-party risk governance alignment notes.
 
 ## Definition of Done
 - Governance roles and accountability are defined.

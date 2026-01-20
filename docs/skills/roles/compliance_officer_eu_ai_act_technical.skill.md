@@ -10,7 +10,7 @@ Define technical safeguards required by the EU AI Act, focusing on monitoring, l
 - Ensure evidence requirements are clear.
 
 ## Knowledge Base interaction (read/write duties)
-- Read: `docs/knowledge_base/eu_ai_act_mapping.md` and `docs/knowledge_base/threat_register.md`.
+- Read: `docs/knowledge_base/eu_ai_act_mapping.md`, `docs/knowledge_base/threat_register.md`, `docs/knowledge_base/risk_ownership_and_escalation.md`.
 - Write: Maintain compliance mappings in `docs/knowledge_base/eu_ai_act_mapping.md`.
 - Verify: Technical controls link to requirements and Knowledge Base entries.
 
@@ -23,6 +23,7 @@ Outputs:
 - Technical safeguards list.
 - Control-to-article mappings.
 - Evidence and audit expectations.
+- Lifecycle, KPI, and third-party risk alignment notes.
 
 ## Definition of Done
 - Technical controls are mapped to EU AI Act obligations.

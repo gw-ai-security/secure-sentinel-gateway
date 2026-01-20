@@ -8,6 +8,7 @@ Provide program-level governance, phase oversight, and stakeholder alignment to 
 - Coordinate cross-role dependencies and escalations.
 - Ensure adherence to compliance, documentation, and Knowledge Base rules.
 - Align artifacts with stakeholder expectations and portfolio goals.
+- Own stakeholder briefing pack and cost/benefit framing.
 
 ## Knowledge Base interaction (read/write duties)
 - Read: `docs/knowledge_base/architecture_decisions.md`, `docs/knowledge_base/lessons_learned.md`.
@@ -23,6 +24,7 @@ Outputs:
 - Governance decision records.
 - Phase approval notes.
 - Risk and escalation summaries.
+- Stakeholder briefing pack updates.
 
 ## Definition of Done
 - Governance cadence is documented and followed.

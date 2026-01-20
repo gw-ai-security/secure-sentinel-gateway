@@ -28,3 +28,7 @@ Phase 1 deliverables meet baseline governance and traceability requirements, but
 - Refine EU AI Act mappings based on architecture and threat outcomes.
 - Validate monitoring, logging, and evidence requirements against the Phase 2 architecture notes.
 - Update Knowledge Base entries and work reports for all contributing roles.
+
+## References
+- docs/knowledge_base/README.md
+- docs/knowledge_base/architecture_decisions.md

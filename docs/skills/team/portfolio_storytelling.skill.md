@@ -8,6 +8,7 @@ Translate technical work into recruiter- and interview-ready narratives using th
 - Capture business impact and measurable value.
 - Curate learning outcomes and growth evidence.
 - Align narratives with target roles.
+- Ensure stakeholder-ready narratives reference KPI outcomes.
 
 ## Knowledge Base interaction (read/write duties)
 - Read: `docs/knowledge_base/lessons_learned.md` and `docs/knowledge_base/architecture_decisions.md`.
@@ -23,11 +24,13 @@ Outputs:
 - STAR-based storylines.
 - Portfolio-ready summaries.
 - Interview talking points.
+- Stakeholder briefing references with KPI storylines.
 
 ## Definition of Done
 - At least one STAR narrative per major phase.
 - Clear articulation of business value.
 - Learning outcomes documented and transferable.
+- Stakeholder briefing pack is linked and KPI storylines are referenced.
 - Narratives aligned to recruiter and engineer expectations.
 
 ## Typical Failure Modes

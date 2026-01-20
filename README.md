@@ -20,6 +20,21 @@ This project uses a simulated expert team with role-based Codex Skills to mirror
 ## Knowledge Base
 The Knowledge Base in `docs/knowledge_base/` is the single source of truth. Every phase updates it, and each major decision is traceable to a Knowledge Base entry. This keeps governance, security, and compliance aligned across the team.
 
+## Enterprise Readiness
+- Requirements: `docs/requirements/functional_specs.md`, `docs/requirements/system_boundaries_and_non_goals.md`
+- Knowledge Base: `docs/knowledge_base/`
+- Compliance: `docs/compliance/ai_system_lifecycle.md`, `docs/compliance/metrics_and_kpis.md`, `docs/compliance/third_party_and_llm_risk.md`
+- Storyline: `docs/storyline/stakeholder_briefing_pack.md`
+- Work reporting: `docs/work_reports/README.md`
+
+## How to Review This Project (Suggested Reading Order)
+1. Executive Summary: `docs/storyline/executive_summary.md`
+2. Requirements: `docs/requirements/functional_specs.md`, `docs/requirements/system_boundaries_and_non_goals.md`
+3. Knowledge Base: `docs/knowledge_base/README.md`
+4. Compliance Docs: `docs/compliance/ai_system_lifecycle.md`, `docs/compliance/metrics_and_kpis.md`, `docs/compliance/third_party_and_llm_risk.md`
+5. Work Reports: `docs/work_reports/README.md`
+6. Storyline: `docs/storyline/stakeholder_briefing_pack.md`
+
 ## Project structure explanation
 - `app/`: Reserved for future application code; intentionally empty in this phase.
 - `docs/`: Core documentation for requirements, compliance, learnings, storyline, and Codex Skills.

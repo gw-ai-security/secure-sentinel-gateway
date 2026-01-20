@@ -10,7 +10,7 @@ Ensure the project advances in a controlled, phase-based manner with clear role 
 - Resolve sequencing conflicts across roles.
 
 ## Knowledge Base interaction (read/write duties)
-- Read: Knowledge Base README to enforce update rules.
+- Read: `docs/knowledge_base/README.md` to enforce update rules.
 - Write: Record phase gate decisions in `docs/knowledge_base/architecture_decisions.md`.
 - Verify: Each phase updates at least one Knowledge Base file.
 
@@ -34,6 +34,14 @@ Outputs:
 - Required artifacts are created or updated.
 - Every contributing role has written a work report entry in its `phase_<N>.md` file.
 - The Knowledge Base Curator confirms required Knowledge Base references exist.
+
+## Enterprise Readiness Gate (Checklist)
+- System boundaries and non-goals documented in `docs/requirements/system_boundaries_and_non_goals.md`.
+- Risk ownership and escalation recorded in `docs/knowledge_base/risk_ownership_and_escalation.md`.
+- Lifecycle evidence defined in `docs/compliance/ai_system_lifecycle.md`.
+- KPI governance documented in `docs/compliance/metrics_and_kpis.md`.
+- Third-party risk posture documented in `docs/compliance/third_party_and_llm_risk.md`.
+- Stakeholder briefing pack updated in `docs/storyline/stakeholder_briefing_pack.md`.
 
 ## Typical Failure Modes
 - Parallel work without coordination causing gaps.
