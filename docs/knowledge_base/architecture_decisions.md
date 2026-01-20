@@ -1,5 +1,11 @@
 # Architecture Decisions (ADR-Style)
 
+## ADR-00: Phase 0 foundation gate (Go to Phase 1)
+- Decision: Confirm Phase 0 completion and authorize Phase 1 entry.
+- Rationale: Governance foundations and documentation baselines are in place.
+- Consequences: Phase 1 can proceed with requirements formalization and traceability controls.
+- Linked requirements: NFR-C1, NFR-C2, NFR-O3.
+
 ## ADR-01: Gateway as centralized control plane
 - Decision: Use a gateway model between enterprise systems and LLM providers.
 - Rationale: Centralizes policy enforcement, audit logging, and security controls.
@@ -17,6 +23,12 @@
 - Rationale: Requirements and governance artifacts are complete, but architecture and threat modeling must validate mappings.
 - Consequences: Phase 2 must expand the threat register and refine compliance mappings.
 - Linked requirements: NFR-C3, NFR-O2, NFR-O3.
+
+## ADR-03a: Phase 1 entry readiness (Go)
+- Decision: Confirm Phase 1 entry readiness following Phase 0 gate completion.
+- Rationale: Governance foundations and baseline artifacts meet Phase 1 entry criteria.
+- Consequences: Phase 1 work proceeds with requirements formalization and traceability updates.
+- Linked requirements: NFR-C1, NFR-C2, NFR-O3.
 
 ## ADR-04: Enterprise readiness governance pack
 - Decision: Add explicit system boundaries, risk ownership, lifecycle evidence, KPI governance, and third-party risk artifacts.

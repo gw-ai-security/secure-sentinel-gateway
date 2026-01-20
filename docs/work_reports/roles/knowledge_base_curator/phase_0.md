@@ -15,6 +15,17 @@ Maintain Knowledge Base consistency, structure, and traceability.
 - Timestamp uses the required format.
 
 ## Entries
+- Timestamp: 2026-01-20 13:35 Europe/Vienna
+  Role: Knowledge Base Curator
+  Phase: phase_0
+  Work package: Updated Knowledge Base with the Phase 0 gate decision.
+  Decisions: Ensured phase gate traceability in ADR records.
+  Artifacts updated:
+  - docs/knowledge_base/architecture_decisions.md
+  Knowledge Base updates:
+  - docs/knowledge_base/architecture_decisions.md
+  Cross-links:
+  - docs/work_reports/phases/phase_0/overview.md
 - Timestamp: 2026-01-20 10:45 Europe/Vienna
   Role: Knowledge Base Curator
   Phase: phase_0

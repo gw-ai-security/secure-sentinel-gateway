@@ -22,6 +22,7 @@
 - Documented architecture decisions for the gateway control plane.
 - Established work reporting standards and role-based logs.
 - Linked requirements to Knowledge Base references.
+- Recorded the Phase 0 gate decision in the Knowledge Base.
 - Confirmed phase gate expectations and traceability rules.
 
 ## Stakeholder-ready summary

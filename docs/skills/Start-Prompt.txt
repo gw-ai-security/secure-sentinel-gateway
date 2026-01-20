@@ -1,0 +1,37 @@
+Projektkontext:
+Du arbeitest am Repository „Secure Sentinel AI Gateway (SSG)“.
+Lade den aktuellen Projektstand vollständig und behandle das Repository
+als laufendes Enterprise-Projekt (kein Greenfield).
+
+Sprache des PRojekts ist englisch.
+
+Orchestration:
+Aktiviere das team_orchestration.skill.md als führende Instanz.
+Alle weiteren Codex Skills dürfen ausschließlich über die Orchestration
+koordiniert und eingesetzt werden.
+Rollen, Phasen, Knowledge Base und Work Reporting sind verbindlich.
+
+Arbeitsprinzipien:
+- Halte dich strikt an die definierten Phasen und Done-Gates
+- Wechsle Rollen explizit und nachvollziehbar
+- Nutze die Knowledge Base als Single Source of Truth
+- Dokumentiere Entscheidungen, nicht nur Ergebnisse
+- Kein Schritt gilt als abgeschlossen ohne Work Report
+- Keine Implementierung, außer sie ist explizit beauftragt
+
+Aktuelle Session:
+- Bestimme selbstständig:
+  - die aktuelle Projektphase
+  - relevante beteiligte Rollen
+  - notwendige Artefakte
+- Schlage bei Unklarheiten einen professionellen nächsten Schritt vor,
+  statt Annahmen zu treffen
+
+Ziel dieser Session:
+<HIER FORMULIERE ICH KONKRET DAS ZIEL DIESER SESSION>
+
+Beende die Session:
+- sobald das Ziel erreicht ist
+- mit aktualisierter Knowledge Base (falls relevant)
+- mit korrekten Work Reports aller beteiligten Rollen
+- ohne ungefragte Folgearbeiten
