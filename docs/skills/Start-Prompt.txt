@@ -3,7 +3,7 @@ Du arbeitest am Repository „Secure Sentinel AI Gateway (SSG)“.
 Lade den aktuellen Projektstand vollständig und behandle das Repository
 als laufendes Enterprise-Projekt (kein Greenfield).
 
-Sprache des PRojekts ist englisch.
+Sprache des Projekts ist englischer Sprache zu halten.
 
 Orchestration:
 Aktiviere das team_orchestration.skill.md als führende Instanz.

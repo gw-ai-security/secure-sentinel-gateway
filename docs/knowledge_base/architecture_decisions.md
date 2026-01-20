@@ -53,3 +53,9 @@
 - Rationale: External dependencies materially affect security, compliance, and availability.
 - Consequences: Third-party risks must be tracked in compliance and threat documentation.
 - Linked requirements: NFR-S1, NFR-S2, NFR-O2.
+
+## ADR-08: Project context handoff snapshots and external feedback capture
+- Decision: Maintain timestamped project context handoff snapshots and isolate external chatbot feedback as untrusted input.
+- Rationale: Reliable context transfer and auditability require an append-only handoff trail with clear trust boundaries.
+- Consequences: Every snapshot must separate facts from assumptions and link to authoritative artifacts; feedback must be reviewed before KB updates.
+- Linked requirements: NFR-C1, NFR-C2, NFR-O3.
